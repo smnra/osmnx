@@ -1,0 +1,125 @@
+!table
+!version 1200
+!charset WindowsSimpChinese
+
+Definition Table
+  Type SHAPEFILE Charset "WindowsLatin1"
+  Fields 96
+    Addr_city Char (80) ;
+    Addr_distr Char (80) ;
+    Addr_house Char (80) ;
+    Addr_hou_1 Char (80) ;
+    Addr_postc Char (80) ;
+    Addr_provi Char (80) ;
+    Addr_stree Char (80) ;
+    Aerialway Char (80) ;
+    Aeroway Char (80) ;
+    Alt_name Char (80) ;
+    Alt_name_e Char (80) ;
+    Amenity Char (80) ;
+    Area Char (80) ;
+    Barrier Char (80) ;
+    Building Char (80) ;
+    Building_l Char (80) ;
+    Building_1 Char (80) ;
+    Building_2 Char (80) ;
+    Building_p Char (80) ;
+    Building_3 Char (80) ;
+    Code Char (80) ;
+    Constructi Char (80) ;
+    Cuisine Char (80) ;
+    Denominati Char (80) ;
+    Descriptio Char (80) ;
+    Drive_in Char (80) ;
+    Drive_thro Char (80) ;
+    Ele Char (80) ;
+    Emergency Char (80) ;
+    Generator_ Char (80) ;
+    Generato_1 Char (80) ;
+    Government Char (80) ;
+    Height Char (80) ;
+    Heritage Char (80) ;
+    Heritage_o Char (80) ;
+    Heritage_w Char (80) ;
+    Highway Char (80) ;
+    Historic Char (80) ;
+    Informatio Char (80) ;
+    Internet_a Char (80) ;
+    Landuse Char (80) ;
+    Lanes Char (80) ;
+    Layer Char (80) ;
+    Leisure Char (80) ;
+    Level Char (80) ;
+    Levels Char (80) ;
+    Lit Char (80) ;
+    Man_made Char (80) ;
+    Material Char (80) ;
+    Name Char (80) ;
+    Name_cs Char (80) ;
+    Name_de Char (80) ;
+    Name_en Char (80) ;
+    Name_es Char (80) ;
+    Name_fr Char (80) ;
+    Name_ko Char (80) ;
+    Name_kr Char (80) ;
+    Name_pt Char (80) ;
+    Name_ru Char (80) ;
+    Name_sk Char (80) ;
+    Name_th Char (80) ;
+    Name_zh Char (80) ;
+    Name_zh_pi Char (80) ;
+    Natural Char (80) ;
+    Nodes Char (254) ;
+    Note Char (105) ;
+    Office Char (80) ;
+    Oneway Char (80) ;
+    Operator Char (80) ;
+    Outdoor_se Char (80) ;
+    Outer Char (80) ;
+    Parking Char (80) ;
+    Phone Char (80) ;
+    Plant_outp Char (80) ;
+    Power Char (80) ;
+    Public_tra Char (80) ;
+    Railway Char (80) ;
+    Ref Char (80) ;
+    Ref_whc Char (80) ;
+    Religion Char (80) ;
+    Roof_shape Char (80) ;
+    Shop Char (80) ;
+    Smoking Char (80) ;
+    Source Char (80) ;
+    Source_nam Char (80) ;
+    Stars Char (80) ;
+    Takeaway Char (80) ;
+    Tourism Char (80) ;
+    Train Char (80) ;
+    Waterway Char (80) ;
+    Website Char (80) ;
+    Whc_criter Char (80) ;
+    Whc_inscri Char (80) ;
+    Wheelchair Char (80) ;
+    Wikidata Char (80) ;
+    Wikipedia Char (80) ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\Shapefile" = ""
+"\Shapefile\PersistentCache" = "FALSE"
+"\Spatial Reference" = ""
+"\Spatial Reference\Geographic" = ""
+"\Spatial Reference\Geographic\Projection" = ""
+"\Spatial Reference\Geographic\Projection\Clause" = "CoordSys Earth Projection 1, 104"
+"\DefaultStyles" = ""
+"\DefaultStyles\Pen" = ""
+"\DefaultStyles\Pen\LineWidth" = "1"
+"\DefaultStyles\Pen\LineStyle" = "0"
+"\DefaultStyles\Pen\Color" = "0"
+"\DefaultStyles\Pen\Pattern" = "2"
+"\DefaultStyles\Brush" = ""
+"\DefaultStyles\Brush\Pattern" = "2"
+"\DefaultStyles\Brush\Forecolor" = "16777215"
+"\DefaultStyles\Brush\Backcolor" = "16777215"
+"\DefaultStyles\Brush\Transparent" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "6776b677-7422-4928-9120-9929076e6ffd"
+end_metadata
